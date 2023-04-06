@@ -1,4 +1,4 @@
-# Phone-Number formatter
+# Key-Data Store
 
 ## Prerequisites
 Need go installed, and get dependencies with `go get ./...` from the root dir
